@@ -56,6 +56,7 @@
   position: relative;
   z-index: 0;
   background-image: url('../images/cover.jpg');
+  background-color: grey;
   background-size: 1100px 757px;
   color: white;
 }
